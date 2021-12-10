@@ -11,4 +11,4 @@ Id real pred
 ... ...
 10 neg  neg
 
-If, however, the labeling system (predictions) will contain some mistake, then the heatmap would show one value off the diagonal.
+If, however, the labeling system (predictions) will contain some mistakes, then the heatmap would show one value off the diagonal. It would be easy to see what was confused with what.
